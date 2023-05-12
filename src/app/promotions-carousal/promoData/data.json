@@ -1,0 +1,608 @@
+{
+  "PlayerKey": {
+      "UserId": 9780954,
+      "GamingSystemId": 42
+  },
+  "PlayerOffers": [
+      {
+          "PromoGuid": "0134b0b1-0000-0000-6f66-666572747275",
+          "OfferGuid": "0134b0b1-0001-0000-6f66-666572747275",
+          "Data": {
+              "_id": "61cf78d8-54a9-4b9e-8c65-f4b9a8184792-en",
+              "ContentId": "61cf78d8-54a9-4b9e-8c65-f4b9a8184792",
+              "PromotionContent": {
+                  "Buttons": [
+                      {
+                          "Id": "1",
+                          "Name": "Opt In",
+                          "Text": "Claim",
+                          "Type": "",
+                          "Action": "OptIn",
+                          "Translations": null
+                      }
+                  ],
+                  "BankingWidget": {
+                      "BankingWidgetText": "100% Bonus up to $200",
+                      "BankingWidgetText2": "On your next deposit!",
+                      "BankingWidgetBackgroundImgUrl": "",
+                      "BankingWidgetBackgroundImgUrlType": "",
+                      "Buttons": [
+                          {
+                              "Id": "1",
+                              "Name": "Opt In",
+                              "Text": "Claim",
+                              "Type": "",
+                              "Action": "OptIn",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Calendar": {
+                      "CalendarPromoText1": "100% Match Bonus",
+                      "CalendarPromoText2": "up to $200",
+                      "CalendarPromoText3": "",
+                      "CalendarImageUrl": "",
+                      "Buttons": [
+                          {
+                              "Id": "1",
+                              "Name": "Opt In",
+                              "Text": "Claim",
+                              "Type": "",
+                              "Action": "OptIn",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Carousel": {
+                      "PrimaryText": "100% Bonus up to $200",
+                      "SecondaryText": "Welcome back – we’ve missed you!",
+                      "AlternativeText": "",
+                      "BackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS8858_CasinoLapsed_June2022_Premium.jpg",
+                      "BackgroundImageUrlType": "https://www.dos-mediastorecdn.com/promos/CS8858_CasinoLapsed_June2022_Premium.jpg",
+                      "MobileBackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS8858_CasinoLapsed_June2022_Premium.jpg",
+                      "MobileBackgroundImageUrlType": "",
+                      "BackgroundVideoUrl": "",
+                      "BackgroundVideoUrlType": "",
+                      "BackgroundVideoUrlAlternative": "",
+                      "BackgroundVideoUrlAlternativeType": "",
+                      "CarouselFontSize": "",
+                      "Buttons": [
+                          {
+                              "Id": "1",
+                              "Name": "Opt In",
+                              "Text": "Claim",
+                              "Type": "",
+                              "Action": "OptIn",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Tournament": null,
+                  "GaTag": "lobby_lapsed_campaign",
+                  "IsOptedIn": false,
+                  "Language": "en",
+                  "Message": {
+                      "TextLines": [
+                          {
+                              "Caption": "",
+                              "LineNumber": 0
+                          },
+                          {
+                              "Caption": "You have unlocked",
+                              "LineNumber": 1
+                          },
+                          {
+                              "Caption": "100% Bonus up to $200",
+                              "LineNumber": 2
+                          },
+                          {
+                              "Caption": "on your next deposit!",
+                              "LineNumber": 3
+                          }
+                      ],
+                      "Buttons": [
+                          {
+                              "Id": "1",
+                              "Name": "Opt In",
+                              "Text": "Claim",
+                              "Type": "",
+                              "Action": "OptIn",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Pop": null,
+                  "OfferId": 0,
+                  "GameId": 0,
+                  "PromoName": "Lapsed BRE Lobby",
+                  "PromotionDetails": {
+                      "ContentType": "Lapsed",
+                      "EligibilityType": "Lapsed",
+                      "Operator": "bre",
+                      "GamingServerIds": [
+                          34,
+                          42,
+                          29,
+                          588
+                      ],
+                      "RewardType": "",
+                      "ProductType": "Casino",
+                      "DealType": "",
+                      "LeaderboardType": null,
+                      "MetaData": {
+                          "minValueDeposit": 1,
+                          "PlayerCountry": "NZL",
+                          "operator": "bre",
+                          "productType": "casino",
+                          "productIds": [],
+                          "bannerUrl": "",
+                          "ContentType": "Lapsed",
+                          "rank": null,
+                          "CalendarRankDisplay": 1
+                      }
+                  },
+                  "Rules": {
+                      "RulesHeadlineText": "Rules apply",
+                      "Rules": [
+                          "Min deposit: 1. 70x wagering ",
+                          "This promotion (this Promotion) is brought to you by the Casino. ",
+                          "The minimum deposit and/or purchase requirements in order to receive the Bonus is 1.",
+                          "This Bonus may not be used in conjunction with a sign-on bonus or any other bonus offer, unless otherwise specified by the Casino.",
+                          "The Bonus will only be granted once the required minimum purchase of Casino credits has been made during the Promotional Period - the minimum purchase shall differ from currency- to- currency and deposit mechanism used ('Minimum Purchase'). The Casino reserves the right to deny any bonus in the event where a pending withdrawal is present on any of the Player's accounts.",
+                          "Where a Bonus has been granted to you, subject to you being required to have made a valid deposit into your Cash Balance, you may not withdraw or attempt to withdraw any part of your deposit before the Bonus is paid into your Bonus Balance. Any attempt to do so may result in the Bonus in question as well as any winnings made using the Bonus being forfeited.",
+                          "This Bonus is limited to one per person. If Players' open multiple accounts they will not be eligible for the Bonus on each account. The Bonus is only available once per Player and/or per environment where computers are shared and/or per e-mail address.",
+                          "If you do not want any Bonus which has been deposited into your account by the Casino then you are entitled to request that the Bonus be reversed out of your Casino account, subject to no play-through having taken place on either the initial deposit or associated Bonus. You can do this by contacting Customer Support by way of email or live chat, where after the Bonus reversal will take place. If any play-through has taken place, then that Bonus may not be removed from your account (either by means of withdrawal or a request to the support staff) until the play-through requirement associated with that Bonus has been met.",
+                          "The Bonus amount is subject to a minimum wagering requirement of at least 70 times (play-through requirement) before it can be transferred from your Bonus Balance to your Cash Balance. The play-through requirement imposed will vary at our sole discretion per game, promotion and/or region to region. For example, if you deposit 100 and receive a 100 credit bonus, the play-through requirement will be 70 x 100 = 7000. Any winnings attributed to the Cash portion of your balance can be withdrawn at any time, subject to meeting all of these terms and conditions. Players who have a greater than 70x play-through requirement may need to meet a minimum wagering requirement of 70x before they are able to withdraw. In order to meet the play-through requirements, please see below.",
+                          "For Players on the Percentage Tracking Mode Bonus System, the following play-through requirements will apply: In order to meet the wagering requirements, please see below the contributing percentages. The percentage of your bonus balance in relation to your cash balance will determine the wagering percentage. For example, a deposit of 100 credits will qualify you for a bonus of 100 credits resulting in a total of 200 credits in your casino account balance, 50% in the cash balance, and 50% in the bonus balance. Thus, until the wagering requirements are met, the money wagered on the games will come to 50% of your cash balance, and 50% of the bonus balance. Winnings accrued will be allocated in the same manner (50% to your bonus balance and 50% to your cash balance). NB! Any bet with your money before a bonus credit has been claimed will result in adjustment of the cash / bonuses ratio, since the proportions are calculated from the amount in your cash balance at the crediting of the Bonus. Players who have a greater than 70x play-through requirement may need to meet a minimum wagering requirement of 70x before they are able to withdraw.",
+                          "Different games contribute a different percentage of the wager - up to 100% towards the play- through requirement. Play using the Gamble Feature will not count towards the Bonus System wagering contributions. Games played will contribute to the play-through requirements in the following percentages: n100% All Slots*(Excluding Progressive Jackpots), Keno & Scratch Card games (*Re-spin slot games counts 10%)n20% Table Poker and Casino Warn10% All Baccarat, Red Dog, Sic Bo, all Roulette and all Blackjacks (except Classic Blackjack)n2% Classic Blackjacks, All Aces video pokers, and all Jacks or Better video pokersn0% All craps and Progressive Jackpots",
+                          "These percentages count towards meeting the minimum play-through requirements.",
+                          "Wagers on Progressive Jackpots will not contribute to loyalty point accumulation or play-through requirements.",
+                          "If you claim any bonus of any nature, you may not revoke your claim to the same. If, however, the Casino credits you with a bonus, for which you have not specifically claimed, such bonus and relevant play-through requirements shall apply to such bonus unless you specifically opt- out of receiving such bonus by contacting Casino support prior to utilizing the Bonus.",
+                          "An In-Play Offer is an add-on bonus that will be awarded in play, following the take up of a promotion. In-Play Offers form part of this promotion and carry the same wagering requirements as the promotion advertised on the promotions page. The duration of this offer is thus ongoing. In-Play Offers may be added to your account until such time as the customer service center is contacted and an opt-out is actioned as per your request. Any offers taken up or wagered prior to this opt out will result in play through wagering requirements.",
+                          "Please note: In-Play Offers are only available once per Player and/or per environment.",
+                          "Before any withdrawals are processed, your play will be reviewed for any irregular playing patterns e.g. playing of equal, zero margin bets or hedge betting, which all shall be considered irregular gaming for Bonus play-through requirements purposes. Other examples of irregular game play include but are not limited to, placing single bets equal to or in excess of 30% or more of the value of the bonus credited to your account until such time as the play-through requirements for that bonus have been met. The Casino reserves the right to decide in its sole discretion which activities constitute irregular play for Bonus play-through requirement purposes from time-to-time and to withhold any withdrawals where irregular play has occurred to meet Bonus play-through requirements.",
+                          "All Casino offers and promotions are subject to ongoing review and the right to change the offers, promotions and applicable Rules is reserved to the Casino, in our sole and absolute discretion. The casino reserves the right to withhold, restrict or cancel this offer from individual account holders in accordance with its eligibility, promotion abuse and internal risk policies at its own discretion and without prior notice.",
+                          "All participants hereby agree to the acceptance of these Rules when entering this Promotion.",
+                          "The standard terms and conditions of the Casino apply to this Promotion. Insofar as there may be any conflict between the terms of this Promotion and the Casino's standard terms and conditions, these Promotion specific terms and conditions shall prevail but only to the extent that the terms and conditions conflict with one another. In all other instances these Promotion specific terms and conditions are complimentary and additional to the Casino's standard terms and conditions.",
+                          "In the event of any dispute, the decision of the Casino management will be considered full and final. No correspondence will be entered into in this regard.",
+                          "Our Privacy Policy has been updated with more information detailing the steps that have been taken to protect your privacy rights and safeguard your personal data. The updates include details on what data we collect, how we collect it, what it is used for, your subscription options, your rights and how to contact us.",
+                          "These changes can be viewed on our website by clicking on Security and Privacy.nLast Updated: September 4, 2020nErrors & Omissions Excepted"
+                      ],
+                      "GeneralRulesName": "Purchase Promo Rules"
+                  },
+                  "Sports": null,
+                  "ThankYou": null
+              }
+          },
+          "DisplayOrder": 6
+      },
+      {
+          "PromoGuid": "5497df05-e72a-433d-a4cd-e88d2a43f2f2",
+          "OfferGuid": "5497df05-e72a-433d-a4cd-e88d2a43f2f2",
+          "Data": {
+              "_id": "651c7f89-fc80-4e8e-877b-bc236512329a-en",
+              "ContentId": "651c7f89-fc80-4e8e-877b-bc236512329a",
+              "PromotionContent": {
+                  "Buttons": [
+                      {
+                          "Id": "3",
+                          "Name": "Play Game",
+                          "Text": "PLAY",
+                          "Type": "",
+                          "Action": "LaunchGame",
+                          "Translations": null
+                      }
+                  ],
+                  "BankingWidget": null,
+                  "Calendar": null,
+                  "Carousel": {
+                      "PrimaryText": "A Special Just for You",
+                      "SecondaryText": "Extra Loyalty Points could be yours! Play Emperor of the Sea to boost up your loyalty balance, for this month only.",
+                      "AlternativeText": "",
+                      "BackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS7515_BRE_LS_EmperoroftheSea.jpg",
+                      "BackgroundImageUrlType": "",
+                      "MobileBackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS7515_BRE_LS_EmperoroftheSea.jpg",
+                      "MobileBackgroundImageUrlType": "",
+                      "BackgroundVideoUrl": "",
+                      "BackgroundVideoUrlType": "",
+                      "BackgroundVideoUrlAlternative": "",
+                      "BackgroundVideoUrlAlternativeType": "",
+                      "CarouselFontSize": "",
+                      "Buttons": [
+                          {
+                              "Id": "3",
+                              "Name": "Play Game",
+                              "Text": "PLAY",
+                              "Type": "",
+                              "Action": "LaunchGame",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Tournament": null,
+                  "GaTag": "LPL0400",
+                  "IsOptedIn": false,
+                  "Language": "en",
+                  "Message": null,
+                  "Pop": null,
+                  "OfferId": 0,
+                  "GameId": 1421,
+                  "PromoName": "Loyalty Special Emperor of the Sea - April 2023 ",
+                  "PromotionDetails": {
+                      "ContentType": "HeadlineLoyalty",
+                      "EligibilityType": "OpenBlock",
+                      "Operator": "bre",
+                      "GamingServerIds": [
+                          34,
+                          42,
+                          29,
+                          588
+                      ],
+                      "RewardType": "",
+                      "ProductType": "Casino",
+                      "DealType": "",
+                      "LeaderboardType": null,
+                      "MetaData": {
+                          "operator": "bre",
+                          "productIds": [],
+                          "ContentType": "HeadlineLoyalty",
+                          "minValueDeposit": 10,
+                          "bannerUrl": "",
+                          "rank": 1
+                      }
+                  },
+                  "Rules": {
+                      "RulesHeadlineText": "Rules Apply",
+                      "Rules": [
+                          "All cash wagers will earn you Points. Loyalty Points are valid for 60 days. You can redeem Loyalty Points for Bonus Credits. You need a min. amount of 5 000 Loyalty Points to redeem. ",
+                          "Your Current Points balance is always displayed in the Loyalty page, under Loyalty Status.",
+                          "All cash wagers will earn you Loyalty Points – see the Loyalty FAQ for the specific contribution of each game type. You can earn EXTRA Loyalty Points through our Loyalty Benefits and by playing specific games designated in our Loyalty Specials – Loyalty FAQ, Loyalty Benefits and Loyalty Specials are displayed on the Loyalty page.",
+                          "Your Current Points balance is made up of Level and Bonus Loyalty Points. All wagers earn Level Loyalty Points, which help you progress through the various levels of our Loyalty Programme. All additional Loyalty Points earned from Loyalty Specials and Level Bonuses are Bonus Loyalty Points and do not count towards your level progression. Both Level and Bonus Loyalty Points have the same value for redemption purposes.",
+                          "Both Level and Bonus Loyalty Points are valid for 60 days and must be redeemed before they expire.",
+                          "The level accumulation period is a defined period of time during which you can earn Level Loyalty Points and progress to a higher loyalty level. At any time during that period, you will automatically move up to the next level as soon as you have earned enough Loyalty Points to qualify for an upgrade. Otherwise, at the end of the accumulation period, the number of Level Loyalty Points you have earned during that period will determine if you remain in the current level or move to a lower level.",
+                          "You can redeem your Loyalty Points for Bonus Credits.",
+                          "All Level Loyalty Points earned during any single accumulation period are maintained in a running total. When Loyalty Points are redeemed, these are deducted from your Current Points balance, but your running total of Level Loyalty Points for the current accumulation period remains unchanged. This running total is reset only at the start of the next accumulation period.",
+                          "You have to have a minimum amount of 5,000 Loyalty Points to redeem. You can only redeem in multiples of 5,000 Loyalty Points. For example, if you have 6,333 Loyalty Points, you would only be able to redeem 5,000 Loyalty Points. The remaining 1,333 Loyalty Points remain in your Loyalty account.",
+                          "Before any withdrawals are processed, your play will be reviewed for any irregular playing patterns, e.g. playing of equal, zero margin bets or hedge betting, which all shall be considered irregular gaming for Bonus play-through requirements purposes. Other examples of irregular game play include, but are not limited to, placing single bets equal to or in excess of 30% or more of the value of the Bonus credited to your account until such time as the play-through requirements for that Bonus have been met. The Casino reserves the right to decide in its sole discretion which activities constitute irregular play for Bonus play-through requirement purposes from time-to-time and to withhold any withdrawals where irregular play has occurred to meet Bonus play-through requirements.",
+                          "All Casino offers and promotions are subject to ongoing review and the right to change the offers, promotions and applicable Rules is reserved to the Casino, in our sole and absolute discretion. The Casino reserves the right to withhold, restrict or cancel this offer from individual account holders in accordance with its eligibility, promotion abuse and internal risk policies at its own discretion and without prior notice."
+                      ],
+                      "GeneralRulesName": "Loyalty Rules"
+                  },
+                  "Sports": null,
+                  "ThankYou": null
+              }
+          },
+          "DisplayOrder": 13
+      },
+      {
+          "PromoGuid": "1858dd99-1a6e-4802-aab7-fe8a53760f0b",
+          "OfferGuid": "1858dd99-1a6e-4802-aab7-fe8a53760f0b",
+          "Data": {
+              "_id": "8f279bf3-9129-4324-adad-3e5ae9f69d18-en",
+              "ContentId": "8f279bf3-9129-4324-adad-3e5ae9f69d18",
+              "UpdateTime": "2023-05-08T10:08:27.5754606+00:00",
+              "PromotionContent": {
+                  "Buttons": [
+                      {
+                          "Id": "3",
+                          "Name": "Play Game",
+                          "Text": "Play",
+                          "Type": "",
+                          "Action": "LaunchGame",
+                          "Translations": null
+                      }
+                  ],
+                  "BankingWidget": null,
+                  "Calendar": null,
+                  "Carousel": {
+                      "PrimaryText": "Must Win Jackpots: Every Single Day!",
+                      "SecondaryText": "Some slots now have progressive jackpot potential, with a jackpot win every day –  look for the thunderbolt next to the game!",
+                      "AlternativeText": "",
+                      "BackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS10140_NGR_MGS_MastersOfOlympusPremium2_Satic.jpg",
+                      "BackgroundImageUrlType": "",
+                      "MobileBackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS10140_NGR_MGS_MastersOfOlympusPremium2_Satic.jpg",
+                      "MobileBackgroundImageUrlType": "",
+                      "BackgroundVideoUrl": "https://www.dos-mediastorecdn.com/promos/CS10140_NGR_MGS_MastersOfOlympusPremium2.mp4",
+                      "BackgroundVideoUrlType": "",
+                      "BackgroundVideoUrlAlternative": "",
+                      "BackgroundVideoUrlAlternativeType": "",
+                      "CarouselFontSize": "",
+                      "Buttons": [
+                          {
+                              "Id": "3",
+                              "Name": "Play Game",
+                              "Text": "Play",
+                              "Type": "",
+                              "Action": "LaunchGame",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Tournament": null,
+                  "GaTag": "NGR0400",
+                  "IsOptedIn": false,
+                  "Language": "en",
+                  "Message": null,
+                  "Pop": null,
+                  "OfferId": 0,
+                  "GameId": 11296,
+                  "PromoName": "NGR_MustWinJackpots_MastersOfOlympus",
+                  "PromotionDetails": {
+                      "ContentType": "HeadlineGamePlay",
+                      "EligibilityType": "OpenBlock",
+                      "Operator": "",
+                      "GamingServerIds": [],
+                      "RewardType": "",
+                      "ProductType": "Casino",
+                      "DealType": "",
+                      "LeaderboardType": null,
+                      "MetaData": {
+                          "minValueDeposit": 10,
+                          "operator": null,
+                          "bannerUrl": "",
+                          "ContentType": "HeadlineGamePlay",
+                          "rank": 2
+                      }
+                  },
+                  "Rules": {
+                      "RulesHeadlineText": "Rules Apply",
+                      "Rules": [
+                          "General Jackpot Rules:",
+                          "- Each jackpot is a constantly accumulating prize, funded by the casino.",
+                          "- The current value of the jackpot is displayed alongside the game.",
+                          "- The jackpots are only available to real players.",
+                          "- You must be playing a jackpot linked game at the time that the jackpot is awarded to win.",
+                          "- The amount won is awarded immediately to the winning player.",
+                          "- The casino has taken every possible precaution to ensure that the value displayed in the game matches the value on the casino server.",
+                          "- The value on the server is used when you are paid out.",
+                          "- The prize amounts accumulate with every player spin until the jackpot is awarded and reset.",
+                          "- The jackpot winnings are randomly awarded to a single player.",
+                          "- When the jackpot is won, all players are notified and the jackpot reset.",
+                          "Daily Jackpot Rules:",
+                          "- The jackpot is randomly awarded once a day.",
+                          "- The jackpot reset amount is 200.00 EUR.",
+                          "- The operator jackpot contribution is 1%.",
+                          "Rapid Jackpot Rules:",
+                          "- The jackpot is randomly awarded before it reaches a specified total value.",
+                          "- The jackpot reset amount is 50.00 EUR .",
+                          "- The operator jackpot contribution is 1%.",
+                          "All wins are subject to final confirmation by the casino and the software supplier."
+                      ],
+                      "GeneralRulesName": "Must Win Jackpots"
+                  },
+                  "Sports": null,
+                  "ThankYou": null
+              }
+          },
+          "DisplayOrder": 13
+      },
+      {
+          "PromoGuid": "f2cca0e7-faf1-4611-8634-0db5dea6f219",
+          "OfferGuid": "f2cca0e7-faf1-4611-8634-0db5dea6f219",
+          "Data": {
+              "_id": "10ece929-1338-4563-9e42-40382f7e493c-en",
+              "ContentId": "10ece929-1338-4563-9e42-40382f7e493c",
+              "PromotionContent": {
+                  "Buttons": [
+                      {
+                          "Id": "3",
+                          "Name": "Play Game",
+                          "Text": "Play",
+                          "Type": "",
+                          "Action": "LaunchGame",
+                          "Translations": null
+                      }
+                  ],
+                  "BankingWidget": null,
+                  "Calendar": null,
+                  "Carousel": {
+                      "PrimaryText": "Time to Heat Things Up!",
+                      "SecondaryText": "",
+                      "AlternativeText": "",
+                      "BackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS10438_GAMEIMAGES_ActionBoostAmberIsland_Premium.jpg",
+                      "BackgroundImageUrlType": "",
+                      "MobileBackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS10438_GAMEIMAGES_ActionBoostAmberIsland_Premium.jpg",
+                      "MobileBackgroundImageUrlType": "",
+                      "BackgroundVideoUrl": "",
+                      "BackgroundVideoUrlType": "",
+                      "BackgroundVideoUrlAlternative": "",
+                      "BackgroundVideoUrlAlternativeType": "",
+                      "CarouselFontSize": "",
+                      "Buttons": [
+                          {
+                              "Id": "3",
+                              "Name": "Play Game",
+                              "Text": "Play",
+                              "Type": "",
+                              "Action": "LaunchGame",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Tournament": null,
+                  "GaTag": "NGR0400",
+                  "IsOptedIn": false,
+                  "Language": "en",
+                  "OfferId": 0,
+                  "GameId": 11583,
+                  "PromoName": "NGR_MGS_ActionBoostAmberIsland",
+                  "PromotionDetails": {
+                      "ContentType": "HeadlineGamePlay",
+                      "EligibilityType": "OpenBlock",
+                      "Operator": "",
+                      "GamingServerIds": [],
+                      "RewardType": "",
+                      "ProductType": "Casino",
+                      "DealType": "",
+
+                      "MetaData": {
+                          "minValueDeposit": 10,
+                          "bannerUrl": "",
+                          "ContentType": "HeadlineGamePlay",
+                          "rank": 3
+
+                      }
+                  },
+                  "Rules": null,
+                  "Sports": null,
+                  "ThankYou": null
+              }
+          },
+          "DisplayOrder": 13
+      },
+      {
+          "PromoGuid": "48b9c7f8-dae5-4f9e-aaa7-7049efa7386b",
+          "OfferGuid": "48b9c7f8-dae5-4f9e-aaa7-7049efa7386b",
+          "Data": {
+              "_id": "b741c666-13ae-4159-b32a-4f118098c5f8-en",
+              "ContentId": "b741c666-13ae-4159-b32a-4f118098c5f8",
+              "UpdateTime": "2023-05-09T11:44:12.0811754+00:00",
+              "PromotionContent": {
+                  "Buttons": [
+                      {
+                          "Id": "3",
+                          "Name": "Play Game",
+                          "Text": "Play",
+                          "Type": "",
+                          "Action": "LaunchGame",
+                          "Translations": null
+                      }
+                  ],
+                  "BankingWidget": null,
+                  "Calendar": null,
+                  "Carousel": {
+                      "PrimaryText": "New from the Reel Stone Age!",
+                      "SecondaryText": "",
+                      "AlternativeText": "",
+                      "BackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS10499_EggzPowerCombo_PremiumV2.jpg",
+                      "BackgroundImageUrlType": "",
+                      "MobileBackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/CS10499_EggzPowerCombo_PremiumV2.jpg",
+                      "MobileBackgroundImageUrlType": "",
+                      "BackgroundVideoUrl": "",
+                      "BackgroundVideoUrlType": "",
+                      "BackgroundVideoUrlAlternative": "",
+                      "BackgroundVideoUrlAlternativeType": "",
+                      "CarouselFontSize": "",
+                      "Buttons": [
+                          {
+                              "Id": "3",
+                              "Name": "Play Game",
+                              "Text": "Play",
+                              "Type": "",
+                              "Action": "LaunchGame",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Tournament": null,
+                  "GaTag": "NGR0400",
+                  "IsOptedIn": false,
+                  "Language": "en",
+                  "Message": null,
+                  "Pop": null,
+                  "OfferId": 0,
+                  "GameId": 11860,
+                  "PromoName": "NGR_MGS_EggzPowerCombo",
+                  "PromotionDetails": {
+                      "ContentType": "HeadlineGamePlay",
+                      "EligibilityType": "OpenBlock",
+                      "Operator": "",
+                      "GamingServerIds": [],
+                      "RewardType": "",
+                      "ProductType": "Casino",
+                      "DealType": "",
+                      "LeaderboardType": null,
+                      "MetaData": {
+                          "minValueDeposit": 10,
+                          "operator": null,
+                          "bannerUrl": "",
+                          "ContentType": "HeadlineGamePlay",
+                          "rank": 4
+                      }
+                  },
+                  "Rules": null,
+                  "Sports": null,
+                  "ThankYou": null
+              }
+          },
+          "DisplayOrder": 13
+      },
+      {
+          "PromoGuid": "15ddb1ce-2d60-4168-9ed3-76fe79e84546",
+          "OfferGuid": "15ddb1ce-2d60-4168-9ed3-76fe79e84546",
+          "Data": {
+              "_id": "f7c988aa-39c0-4f81-86c4-1937311fbea2-en",
+              "ContentId": "f7c988aa-39c0-4f81-86c4-1937311fbea2",
+              "UpdateTime": "2023-05-09T12:09:06.4675096+00:00",
+              "PromotionContent": {
+                  "Buttons": [
+                      {
+                          "Id": "3",
+                          "Name": "Play Game",
+                          "Text": "Surprise Me",
+                          "Type": "",
+                          "Action": "LaunchGame",
+                          "Translations": null
+                      }
+                  ],
+                  "BankingWidget": null,
+                  "Calendar": null,
+                  "Carousel": {
+                      "PrimaryText": "What will you play next?",
+                      "SecondaryText": "",
+                      "AlternativeText": "",
+                      "BackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/4997_HVC_Mystery_Prize_PREMIUM_2.jpg",
+                      "BackgroundImageUrlType": "",
+                      "MobileBackgroundImageUrl": "https://www.dos-mediastorecdn.com/promos/4997_HVC_Mystery_Prize_PREMIUM_2.jpg",
+                      "MobileBackgroundImageUrlType": "",
+                      "BackgroundVideoUrl": "",
+                      "BackgroundVideoUrlType": "",
+                      "BackgroundVideoUrlAlternative": "",
+                      "BackgroundVideoUrlAlternativeType": "",
+                      "CarouselFontSize": "",
+                      "Buttons": [
+                          {
+                              "Id": "3",
+                              "Name": "Play Game",
+                              "Text": "Surprise Me",
+                              "Type": "",
+                              "Action": "LaunchGame",
+                              "Translations": null
+                          }
+                      ]
+                  },
+                  "Tournament": null,
+                  "GaTag": "NGR_SurpriseMeLobby",
+                  "IsOptedIn": false,
+                  "Language": "en",
+                  "Message": null,
+                  "Pop": null,
+                  "OfferId": 0,
+                  "GameId": 11397,
+                  "PromoName": "NGR_SurpriseMeLobby",
+                  "PromotionDetails": {
+                      "ContentType": "HeadlineGamePlay",
+                      "EligibilityType": "OpenBlock",
+                      "Operator": "",
+                      "GamingServerIds": [],
+                      "RewardType": "",
+                      "ProductType": "Casino",
+                      "DealType": "",
+                      "LeaderboardType": null,
+                      "MetaData": {
+                          "ContentType": "HeadlineGamePlay",
+                          "minValueDeposit": 10,
+                          "bannerUrl": "",
+                          "rank": 5
+          
+                      }
+                  },
+                  "Rules": null,
+                  "Sports": null,
+                  "ThankYou": null
+              }
+          },
+          "DisplayOrder": 13
+      }
+  ]
+}
